@@ -1,0 +1,52 @@
+body {
+    background-image: url(./assets/fundo-de-ficcao-cientifica-futurista-moderno_35913-2152.avif);
+}
+
+.container {
+    width: 375px;
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, .2);
+    backdrop-filter: blur(20px);
+    border-radius: 20px;
+    margin: 0 auto 40px;
+    padding: 20px;
+
+}
+
+h1 {
+    margin-left: 80px;
+}
+
+h1,
+label {
+    color: aliceblue;
+}
+
+button {
+    border-radius: 5px;
+    width: 100%;
+    background: #9968d6;
+    border: none;
+    height: 48px;
+    color: #ffffff;
+    cursor: pointer;
+    font-size: 18px;
+
+}
+
+.input-nomes {
+
+    border-radius: 15px;
+    border-color: #9968d6;
+
+}
+
+.input-nota01,
+.input-nota02 {
+    border-radius: 15px;
+    border-color: #9968d6;
+}
+
+h2{
+    color: #ffffff;
+}
